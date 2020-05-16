@@ -1,2 +1,2 @@
-# cdn
-Some Files CDN by jsDelivr
+# CDN
+Open Source CDN by [jsDelivr](https://www.jsdelivr.com/).
