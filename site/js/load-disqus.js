@@ -16,3 +16,15 @@ var disqus = {
     }
   }
 };
+
+renderMathInElement(
+    document.getElementById("test"),
+    {
+        delimiters: [
+            {left: "$$", right: "$$", display: true},
+            {left: "\\[", right: "\\]", display: true},
+            {left: "$", right: "$", display: false},
+            {left: "\\(", right: "\\)", display: false}
+        ]
+    }
+);
