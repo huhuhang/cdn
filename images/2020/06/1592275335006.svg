@@ -1,0 +1,563 @@
+<svg id="mermaid-1592275112962" width="595.9375" xmlns="http://www.w3.org/2000/svg" height="77" viewBox="0 0 595.9375 77"><style>
+
+
+
+#mermaid-1592275112962 .label {
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family);
+  color: #333; }
+
+#mermaid-1592275112962 .label text {
+  fill: #333; }
+
+#mermaid-1592275112962 .node rect,
+#mermaid-1592275112962 .node circle,
+#mermaid-1592275112962 .node ellipse,
+#mermaid-1592275112962 .node polygon,
+#mermaid-1592275112962 .node path {
+  fill: #ECECFF;
+  stroke: #9370DB;
+  stroke-width: 1px; }
+
+#mermaid-1592275112962 .node .label {
+  text-align: center; }
+
+#mermaid-1592275112962 .node.clickable {
+  cursor: pointer; }
+
+#mermaid-1592275112962 .arrowheadPath {
+  fill: #333333; }
+
+#mermaid-1592275112962 .edgePath .path {
+  stroke: #333333;
+  stroke-width: 1.5px; }
+
+#mermaid-1592275112962 .edgeLabel {
+  background-color: #e8e8e8;
+  text-align: center; }
+#mermaid-1592275112962   .edgeLabel rect {
+    opacity: 0.5; }
+
+#mermaid-1592275112962 .cluster rect {
+  fill: #ffffde;
+  stroke: #aaaa33;
+  stroke-width: 1px; }
+
+#mermaid-1592275112962 .cluster text {
+  fill: #333; }
+
+#mermaid-1592275112962 div.mermaidTooltip {
+  position: absolute;
+  text-align: center;
+  max-width: 200px;
+  padding: 2px;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family);
+  font-size: 12px;
+  background: #ffffde;
+  border: 1px solid #aaaa33;
+  border-radius: 2px;
+  pointer-events: none;
+  z-index: 100; }
+
+#mermaid-1592275112962 .actor {
+  stroke: #CCCCFF;
+  fill: #ECECFF; }
+
+#mermaid-1592275112962 text.actor {
+  fill: black;
+  stroke: none; }
+
+#mermaid-1592275112962 .actor-line {
+  stroke: grey; }
+
+#mermaid-1592275112962 .messageLine0 {
+  stroke-width: 1.5;
+  stroke-dasharray: '2 2';
+  stroke: #333; }
+
+#mermaid-1592275112962 .messageLine1 {
+  stroke-width: 1.5;
+  stroke-dasharray: '2 2';
+  stroke: #333; }
+
+#mermaid-1592275112962 #arrowhead {
+  fill: #333; }
+
+#mermaid-1592275112962 .sequenceNumber {
+  fill: white; }
+
+#mermaid-1592275112962 #sequencenumber {
+  fill: #333; }
+
+#mermaid-1592275112962 #crosshead path {
+  fill: #333 !important;
+  stroke: #333 !important; }
+
+#mermaid-1592275112962 .messageText {
+  fill: #333;
+  stroke: none; }
+
+#mermaid-1592275112962 .labelBox {
+  stroke: #CCCCFF;
+  fill: #ECECFF; }
+
+#mermaid-1592275112962 .labelText {
+  fill: black;
+  stroke: none; }
+
+#mermaid-1592275112962 .loopText {
+  fill: black;
+  stroke: none; }
+
+#mermaid-1592275112962 .loopLine {
+  stroke-width: 2;
+  stroke-dasharray: '2 2';
+  stroke: #CCCCFF; }
+
+#mermaid-1592275112962 .note {
+  stroke: #aaaa33;
+  fill: #fff5ad; }
+
+#mermaid-1592275112962 .noteText {
+  fill: black;
+  stroke: none;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family);
+  font-size: 14px; }
+
+#mermaid-1592275112962 .activation0 {
+  fill: #f4f4f4;
+  stroke: #666; }
+
+#mermaid-1592275112962 .activation1 {
+  fill: #f4f4f4;
+  stroke: #666; }
+
+#mermaid-1592275112962 .activation2 {
+  fill: #f4f4f4;
+  stroke: #666; }
+
+
+#mermaid-1592275112962 .mermaid-main-font {
+  font-family: "trebuchet ms", verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1592275112962 .section {
+  stroke: none;
+  opacity: 0.2; }
+
+#mermaid-1592275112962 .section0 {
+  fill: rgba(102, 102, 255, 0.49); }
+
+#mermaid-1592275112962 .section2 {
+  fill: #fff400; }
+
+#mermaid-1592275112962 .section1,
+#mermaid-1592275112962 .section3 {
+  fill: white;
+  opacity: 0.2; }
+
+#mermaid-1592275112962 .sectionTitle0 {
+  fill: #333; }
+
+#mermaid-1592275112962 .sectionTitle1 {
+  fill: #333; }
+
+#mermaid-1592275112962 .sectionTitle2 {
+  fill: #333; }
+
+#mermaid-1592275112962 .sectionTitle3 {
+  fill: #333; }
+
+#mermaid-1592275112962 .sectionTitle {
+  text-anchor: start;
+  font-size: 11px;
+  text-height: 14px;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+
+#mermaid-1592275112962 .grid .tick {
+  stroke: lightgrey;
+  opacity: 0.8;
+  shape-rendering: crispEdges; }
+#mermaid-1592275112962   .grid .tick text {
+    font-family: 'trebuchet ms', verdana, arial;
+    font-family: var(--mermaid-font-family); }
+
+#mermaid-1592275112962 .grid path {
+  stroke-width: 0; }
+
+
+#mermaid-1592275112962 .today {
+  fill: none;
+  stroke: red;
+  stroke-width: 2px; }
+
+
+
+#mermaid-1592275112962 .task {
+  stroke-width: 2; }
+
+#mermaid-1592275112962 .taskText {
+  text-anchor: middle;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1592275112962 .taskText:not([font-size]) {
+  font-size: 11px; }
+
+#mermaid-1592275112962 .taskTextOutsideRight {
+  fill: black;
+  text-anchor: start;
+  font-size: 11px;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1592275112962 .taskTextOutsideLeft {
+  fill: black;
+  text-anchor: end;
+  font-size: 11px; }
+
+
+#mermaid-1592275112962 .task.clickable {
+  cursor: pointer; }
+
+#mermaid-1592275112962 .taskText.clickable {
+  cursor: pointer;
+  fill: #003163 !important;
+  font-weight: bold; }
+
+#mermaid-1592275112962 .taskTextOutsideLeft.clickable {
+  cursor: pointer;
+  fill: #003163 !important;
+  font-weight: bold; }
+
+#mermaid-1592275112962 .taskTextOutsideRight.clickable {
+  cursor: pointer;
+  fill: #003163 !important;
+  font-weight: bold; }
+
+
+#mermaid-1592275112962 .taskText0,
+#mermaid-1592275112962 .taskText1,
+#mermaid-1592275112962 .taskText2,
+#mermaid-1592275112962 .taskText3 {
+  fill: white; }
+
+#mermaid-1592275112962 .task0,
+#mermaid-1592275112962 .task1,
+#mermaid-1592275112962 .task2,
+#mermaid-1592275112962 .task3 {
+  fill: #8a90dd;
+  stroke: #534fbc; }
+
+#mermaid-1592275112962 .taskTextOutside0,
+#mermaid-1592275112962 .taskTextOutside2 {
+  fill: black; }
+
+#mermaid-1592275112962 .taskTextOutside1,
+#mermaid-1592275112962 .taskTextOutside3 {
+  fill: black; }
+
+
+#mermaid-1592275112962 .active0,
+#mermaid-1592275112962 .active1,
+#mermaid-1592275112962 .active2,
+#mermaid-1592275112962 .active3 {
+  fill: #bfc7ff;
+  stroke: #534fbc; }
+
+#mermaid-1592275112962 .activeText0,
+#mermaid-1592275112962 .activeText1,
+#mermaid-1592275112962 .activeText2,
+#mermaid-1592275112962 .activeText3 {
+  fill: black !important; }
+
+
+#mermaid-1592275112962 .done0,
+#mermaid-1592275112962 .done1,
+#mermaid-1592275112962 .done2,
+#mermaid-1592275112962 .done3 {
+  stroke: grey;
+  fill: lightgrey;
+  stroke-width: 2; }
+
+#mermaid-1592275112962 .doneText0,
+#mermaid-1592275112962 .doneText1,
+#mermaid-1592275112962 .doneText2,
+#mermaid-1592275112962 .doneText3 {
+  fill: black !important; }
+
+
+#mermaid-1592275112962 .crit0,
+#mermaid-1592275112962 .crit1,
+#mermaid-1592275112962 .crit2,
+#mermaid-1592275112962 .crit3 {
+  stroke: #ff8888;
+  fill: red;
+  stroke-width: 2; }
+
+#mermaid-1592275112962 .activeCrit0,
+#mermaid-1592275112962 .activeCrit1,
+#mermaid-1592275112962 .activeCrit2,
+#mermaid-1592275112962 .activeCrit3 {
+  stroke: #ff8888;
+  fill: #bfc7ff;
+  stroke-width: 2; }
+
+#mermaid-1592275112962 .doneCrit0,
+#mermaid-1592275112962 .doneCrit1,
+#mermaid-1592275112962 .doneCrit2,
+#mermaid-1592275112962 .doneCrit3 {
+  stroke: #ff8888;
+  fill: lightgrey;
+  stroke-width: 2;
+  cursor: pointer;
+  shape-rendering: crispEdges; }
+
+#mermaid-1592275112962 .milestone {
+  transform: rotate(45deg) scale(0.8, 0.8); }
+
+#mermaid-1592275112962 .milestoneText {
+  font-style: italic; }
+
+#mermaid-1592275112962 .doneCritText0,
+#mermaid-1592275112962 .doneCritText1,
+#mermaid-1592275112962 .doneCritText2,
+#mermaid-1592275112962 .doneCritText3 {
+  fill: black !important; }
+
+#mermaid-1592275112962 .activeCritText0,
+#mermaid-1592275112962 .activeCritText1,
+#mermaid-1592275112962 .activeCritText2,
+#mermaid-1592275112962 .activeCritText3 {
+  fill: black !important; }
+
+#mermaid-1592275112962 .titleText {
+  text-anchor: middle;
+  font-size: 18px;
+  fill: black;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1592275112962 g.classGroup text {
+  fill: #9370DB;
+  stroke: none;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family);
+  font-size: 10px; }
+#mermaid-1592275112962   g.classGroup text .title {
+    font-weight: bolder; }
+
+#mermaid-1592275112962 g.clickable {
+  cursor: pointer; }
+
+#mermaid-1592275112962 g.classGroup rect {
+  fill: #ECECFF;
+  stroke: #9370DB; }
+
+#mermaid-1592275112962 g.classGroup line {
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1592275112962 .classLabel .box {
+  stroke: none;
+  stroke-width: 0;
+  fill: #ECECFF;
+  opacity: 0.5; }
+
+#mermaid-1592275112962 .classLabel .label {
+  fill: #9370DB;
+  font-size: 10px; }
+
+#mermaid-1592275112962 .relation {
+  stroke: #9370DB;
+  stroke-width: 1;
+  fill: none; }
+
+#mermaid-1592275112962 .dashed-line {
+  stroke-dasharray: 3; }
+
+#mermaid-1592275112962 #compositionStart {
+  fill: #9370DB;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1592275112962 #compositionEnd {
+  fill: #9370DB;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1592275112962 #aggregationStart {
+  fill: #ECECFF;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1592275112962 #aggregationEnd {
+  fill: #ECECFF;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1592275112962 #dependencyStart {
+  fill: #9370DB;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1592275112962 #dependencyEnd {
+  fill: #9370DB;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1592275112962 #extensionStart {
+  fill: #9370DB;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1592275112962 #extensionEnd {
+  fill: #9370DB;
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1592275112962 .commit-id,
+#mermaid-1592275112962 .commit-msg,
+#mermaid-1592275112962 .branch-label {
+  fill: lightgrey;
+  color: lightgrey;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1592275112962 .pieTitleText {
+  text-anchor: middle;
+  font-size: 25px;
+  fill: black;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1592275112962 .slice {
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1592275112962 g.stateGroup text {
+  fill: #9370DB;
+  stroke: none;
+  font-size: 10px;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1592275112962 g.stateGroup text {
+  fill: #9370DB;
+  stroke: none;
+  font-size: 10px; }
+
+#mermaid-1592275112962 g.stateGroup .state-title {
+  font-weight: bolder;
+  fill: black; }
+
+#mermaid-1592275112962 g.stateGroup rect {
+  fill: #ECECFF;
+  stroke: #9370DB; }
+
+#mermaid-1592275112962 g.stateGroup line {
+  stroke: #9370DB;
+  stroke-width: 1; }
+
+#mermaid-1592275112962 .transition {
+  stroke: #9370DB;
+  stroke-width: 1;
+  fill: none; }
+
+#mermaid-1592275112962 .stateGroup .composit {
+  fill: white;
+  border-bottom: 1px; }
+
+#mermaid-1592275112962 .stateGroup .alt-composit {
+  fill: #e0e0e0;
+  border-bottom: 1px; }
+
+#mermaid-1592275112962 .state-note {
+  stroke: #aaaa33;
+  fill: #fff5ad; }
+#mermaid-1592275112962   .state-note text {
+    fill: black;
+    stroke: none;
+    font-size: 10px; }
+
+#mermaid-1592275112962 .stateLabel .box {
+  stroke: none;
+  stroke-width: 0;
+  fill: #ECECFF;
+  opacity: 0.5; }
+
+#mermaid-1592275112962 .stateLabel text {
+  fill: black;
+  font-size: 10px;
+  font-weight: bold;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1592275112962 .node circle.state-start {
+  fill: black;
+  stroke: black; }
+
+#mermaid-1592275112962 .node circle.state-end {
+  fill: black;
+  stroke: white;
+  stroke-width: 1.5; }
+
+#mermaid-1592275112962 #statediagram-barbEnd {
+  fill: #9370DB; }
+
+#mermaid-1592275112962 .statediagram-cluster rect {
+  fill: #ECECFF;
+  stroke: #9370DB;
+  stroke-width: 1px; }
+
+#mermaid-1592275112962 .statediagram-cluster rect.outer {
+  rx: 5px;
+  ry: 5px; }
+
+#mermaid-1592275112962 .statediagram-state .divider {
+  stroke: #9370DB; }
+
+#mermaid-1592275112962 .statediagram-state .title-state {
+  rx: 5px;
+  ry: 5px; }
+
+#mermaid-1592275112962 .statediagram-cluster.statediagram-cluster .inner {
+  fill: white; }
+
+#mermaid-1592275112962 .statediagram-cluster.statediagram-cluster-alt .inner {
+  fill: #e0e0e0; }
+
+#mermaid-1592275112962 .statediagram-cluster .inner {
+  rx: 0;
+  ry: 0; }
+
+#mermaid-1592275112962 .statediagram-state rect.basic {
+  rx: 5px;
+  ry: 5px; }
+
+#mermaid-1592275112962 .statediagram-state rect.divider {
+  stroke-dasharray: 10,10;
+  fill: #efefef; }
+
+#mermaid-1592275112962 .note-edge {
+  stroke-dasharray: 5; }
+
+#mermaid-1592275112962 .statediagram-note rect {
+  fill: #fff5ad;
+  stroke: #aaaa33;
+  stroke-width: 1px;
+  rx: 0;
+  ry: 0; }
+
+:root {
+  --mermaid-font-family: '"trebuchet ms", verdana, arial';
+  --mermaid-font-family: "Comic Sans MS", "Comic Sans", cursive; }
+
+:root { --mermaid-font-family: "trebuchet ms", verdana, arial;}</style><style>#mermaid-1592275112962 {
+    color: rgb(0, 0, 0);
+    font: 16px "trebuchet ms", verdana, arial;
+  }</style><g><g class="output"><g class="clusters"></g><g class="edgePaths"><g class="edgePath" style="opacity: 1;"><path class="path" d="M92,29.57702702702703L154.0625,17.5L216.125,27.700760938490806" marker-end="url(#arrowhead549)" style="fill:none"></path><defs><marker id="arrowhead549" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M216.125,47.7992390615092L154.0625,58L92,45.92297297297297" marker-end="url(#arrowhead550)" style="fill:none"></path><defs><marker id="arrowhead550" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M338.40625,37.75L390.9375,37.75L443.46875,37.75" marker-end="url(#arrowhead551)" style="fill:none"></path><defs><marker id="arrowhead551" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g></g><g class="edgeLabels"><g class="edgeLabel" transform="translate(154.0625,17.5)" style="opacity: 1;"><g transform="translate(-37.0625,-9.5)" class="label"><rect rx="0" ry="0" width="74.125" height="19" style="fill:#e8e8e8;"></rect><foreignObject width="74.125" height="19"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Review PR</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(154.0625,58)"><g transform="translate(-32,-11)" class="label"><rect rx="0" ry="0" width="64" height="22" style="fill:#e8e8e8;"></rect><foreignObject width="64" height="22"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">格式修正</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(390.9375,37.75)"><g transform="translate(-27.53125,-11)" class="label"><rect rx="0" ry="0" width="55.0625" height="22" style="fill:#e8e8e8;"></rect><foreignObject width="55.0625" height="22"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">自动 PR</span></div></foreignObject></g></g></g><g class="nodes"><g class="node default" id="A" transform="translate(50,37.75)" style="opacity: 1;"><rect rx="5" ry="5" x="-42" y="-21" width="84" height="42" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-32,-11)"><foreignObject width="64" height="22"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">个人分支</div></foreignObject></g></g></g><g class="node default" style="opacity: 1;" id="B" transform="translate(277.265625,37.75)"><rect rx="5" ry="5" x="-61.140625" y="-21" width="122.28125" height="42" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-51.140625,-11)"><foreignObject width="102.28125" height="22"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">master 主分支</div></foreignObject></g></g></g><g class="node default" style="opacity: 1;" id="C" transform="translate(515.703125,37.75)"><rect rx="5" ry="5" x="-72.234375" y="-21" width="144.46875" height="42" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-62.234375,-11)"><foreignObject width="124.46875" height="22"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">product 上线分支</div></foreignObject></g></g></g></g></g></g></svg>
