@@ -97,6 +97,10 @@ h6 {
   letter-spacing: 2px;
   line-height: 1.2;
   color: var(--font-color);
+  background-image: url(https://cdn.jsdelivr.net/gh/huhuhang/cdn/site/images/logo-lite-black.svg);
+  background-size: contain;
+  width: 50px;
+  height: 50px;
 }
 .header .site_title_container .site_title a:hover {
   color: var(--font-color);
