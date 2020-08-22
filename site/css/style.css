@@ -555,6 +555,7 @@ h6 {
   font-weight: bold;
   color: var(--bg-color);
   background-color: var(--font-color);
+  cursor: pointer;
 }
 
 /* Images Styles */
