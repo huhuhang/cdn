@@ -406,6 +406,8 @@ h6 {
 }
 .markdown pre {
   border-radius: 5px;
+  background: unset;
+  border: 1px solid var(--primary-color);
 }
 .markdown .codehilite {
   background: unset;
