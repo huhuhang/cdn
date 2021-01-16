@@ -248,6 +248,9 @@ h6 {
 .footer .bitcron_nav_container .site_nav {
   display: inline-block;
   float: none;
+  border: 2px solid;
+  border-radius: 10px;
+}
 }
 .footer .bitcron_nav_container .site_nav a {
   color: var(--font-color);
