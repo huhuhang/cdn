@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="366px" height="160px" viewBox="0 0 366 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>算法模型</title>
+    <g id="线性回归" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="算法模型" transform="translate(-645.000000, -466.000000)">
+            <g transform="translate(645.000000, 466.000000)">
+                <g transform="translate(206.000000, 0.000000)">
+                    <rect id="矩形" stroke="#F7B500" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="158" height="158" rx="8"></rect>
+                    <rect id="矩形" stroke="#0091FF" stroke-width="2" fill="#0091FF" x="6" y="6" width="148" height="148" rx="8"></rect>
+                    <text font-family="NotoSansSC-Regular, Noto Sans SC" font-size="18" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="44" y="88">算法模型</tspan>
+                    </text>
+                </g>
+                <g id="数据集">
+                    <rect id="矩形" stroke="#6D7278" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="158" height="158" rx="8"></rect>
+                    <g id="编组" transform="translate(10.000000, 8.000000)">
+                        <g id="编组-3">
+                            <rect id="矩形" fill="#0091FF" x="0" y="0" width="140" height="98" rx="8"></rect>
+                            <text id="训练集" font-family="NotoSansSC-Regular, Noto Sans SC" font-size="18" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="43" y="57">训练集</tspan>
+                            </text>
+                        </g>
+                        <g id="编组-2" transform="translate(0.000000, 102.000000)">
+                            <rect id="矩形" fill="#F7B500" x="0" y="0" width="140" height="42" rx="8"></rect>
+                            <text id="测试集" font-family="NotoSansSC-Regular, Noto Sans SC" font-size="18" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="43" y="29">测试集</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <path id="直线" d="M203,53 L212,57.5 L203,62 L203,58 L148,58 L148,57 L203,57 L203,53 Z" fill="#0091FF" fill-rule="nonzero"></path>
+                <path id="直线" d="M198,127 L207,131.5 L198,136 L198,132 L148,132 L148,131 L198,131 L198,127 Z" fill="#F7B500" fill-rule="nonzero"></path>
+                <text id="①" font-family="NotoSansSC-Regular, Noto Sans SC" font-size="18" font-weight="normal" fill="#6D7278">
+                    <tspan x="168" y="51">①</tspan>
+                </text>
+                <text id="②" font-family="NotoSansSC-Regular, Noto Sans SC" font-size="18" font-weight="normal" fill="#6D7278">
+                    <tspan x="168" y="125">②</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
