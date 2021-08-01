@@ -1,0 +1,17 @@
+name: remove commits
+on: workflow_dispatch
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Remove all commits
+        run: |
+          git config --global user.email "no-reply@huhuhang.com"
+          git config --global user.name "huhuhang"
+          git checkout --orphan latest_branch
+          git add -A
+          git commit -am "remove commits"
+          git branch -D master
+          git branch -m master
+          git push -f origin master
