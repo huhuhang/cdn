@@ -1,5 +1,8 @@
 name: remove commits
-on: workflow_dispatch
+on: 
+  schedule:
+    - cron: '1 0 1 * *'
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
