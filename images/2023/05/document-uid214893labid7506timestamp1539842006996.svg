@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Rectangle" stroke="#8B572A" stroke-width="2" x="1" y="1" width="298" height="298" rx="8"></rect>
+            <rect id="Rectangle-2" stroke="#979797" stroke-width="2" fill="#F8E71C" x="21" y="37" width="258" height="104" rx="8"></rect>
+            <rect id="Rectangle-2" stroke="#979797" stroke-width="2" fill="#B8E986" x="21" y="160" width="258" height="104" rx="8"></rect>
+            <text id="机器学习算法" font-family="PingFangSC-Medium, PingFang SC" font-size="24" font-weight="400" fill="#4A4A4A">
+                <tspan x="78" y="96">机器学习算法</tspan>
+            </text>
+            <text id="合适的数据" font-family="PingFangSC-Medium, PingFang SC" font-size="24" font-weight="400" fill="#4A4A4A">
+                <tspan x="90" y="219">合适的数据</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
