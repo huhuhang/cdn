@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1652451955902</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1652451955902" fill="#C9D1D9" fill-rule="nonzero">
+            <circle id="椭圆形" cx="8" cy="8" r="4"></circle>
+            <circle id="椭圆形" cx="8" cy="1" r="1"></circle>
+            <circle id="椭圆形" cx="8" cy="15" r="1"></circle>
+            <circle id="椭圆形" transform="translate(1.000000, 8.000000) rotate(-90.000000) translate(-1.000000, -8.000000) " cx="1" cy="8" r="1"></circle>
+            <circle id="椭圆形" transform="translate(14.999980, 8.000000) rotate(-90.000000) translate(-14.999980, -8.000000) " cx="14.99998" cy="8" r="1"></circle>
+            <circle id="椭圆形" transform="translate(3.049950, 3.050780) rotate(-45.000000) translate(-3.049950, -3.050780) " cx="3.04995" cy="3.05078" r="1"></circle>
+            <circle id="椭圆形" transform="translate(12.949380, 12.950300) rotate(-45.000000) translate(-12.949380, -12.950300) " cx="12.94938" cy="12.9503" r="1"></circle>
+            <circle id="椭圆形" transform="translate(3.050290, 12.949100) rotate(-135.000000) translate(-3.050290, -12.949100) " cx="3.05029" cy="12.9491" r="1"></circle>
+            <circle id="椭圆形" transform="translate(12.949680, 3.049570) rotate(-135.000000) translate(-12.949680, -3.049570) " cx="12.94968" cy="3.04957" r="1"></circle>
+        </g>
+    </g>
+</svg>
