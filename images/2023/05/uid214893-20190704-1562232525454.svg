@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="467px" height="269px" viewBox="0 0 467 269" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>编组 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-3">
+            <rect id="矩形" fill="#FFFFFF" x="0" y="0" width="467" height="269"></rect>
+            <g id="编组-4" transform="translate(38.000000, 26.000000)">
+                <g id="编组" fill="#979797" fill-rule="nonzero">
+                    <path id="直线" d="M376,218 L0,218 L0,216 L376,216 L376,210 L390,217 L376,224 L376,218 Z"></path>
+                    <path id="直线-2" d="M2,14.5 L2,218 L0,218 L0,14.5 L-6,14.5 L1,0.5 L8,14.5 L2,14.5 Z"></path>
+                </g>
+                <g id="编组-2" transform="translate(66.000000, 48.000000)" fill="#D8D8D8" stroke="#979797">
+                    <circle id="椭圆形" cx="7.5" cy="14.5" r="7.5"></circle>
+                    <circle id="椭圆形" cx="31.5" cy="25.5" r="7.5"></circle>
+                    <circle id="椭圆形" cx="7.5" cy="50.5" r="7.5"></circle>
+                    <circle id="椭圆形" cx="59.5" cy="45.5" r="7.5"></circle>
+                    <circle id="椭圆形" cx="39.5" cy="60.5" r="7.5"></circle>
+                    <circle id="椭圆形" cx="46.5" cy="7.5" r="7.5"></circle>
+                    <circle id="椭圆形" cx="16.5" cy="32.5" r="7.5"></circle>
+                    <circle id="椭圆形" cx="40.5" cy="43.5" r="7.5"></circle>
+                    <circle id="椭圆形" cx="16.5" cy="68.5" r="7.5"></circle>
+                    <circle id="椭圆形" cx="68.5" cy="63.5" r="7.5"></circle>
+                    <circle id="椭圆形" cx="48.5" cy="78.5" r="7.5"></circle>
+                    <circle id="椭圆形" cx="55.5" cy="25.5" r="7.5"></circle>
+                </g>
+                <g id="编组-2" transform="translate(243.000000, 119.000000) rotate(50.000000) translate(-243.000000, -119.000000) translate(190.000000, 71.000000)" fill="#D8D8D8" stroke="#979797">
+                    <circle id="椭圆形" cx="22.5" cy="23.5" r="7.5"></circle>
+                    <circle id="椭圆形" cx="54.2769537" cy="34.1430857" r="7.5"></circle>
+                    <circle id="椭圆形" cx="7.67948218" cy="69.45138" r="7.5"></circle>
+                    <circle id="椭圆形" cx="74.5" cy="54.5" r="7.5"></circle>
+                    <circle id="椭圆形" cx="54.5" cy="69.5" r="7.5"></circle>
+                    <circle id="椭圆形" cx="48.4746221" cy="8.38783478" r="7.5"></circle>
+                    <circle id="椭圆形" cx="15.0761699" cy="40.4119411" r="7.5"></circle>
+                    <circle id="椭圆形" cx="43.5695745" cy="57.79371" r="7.5"></circle>
+                    <circle id="椭圆形" cx="31.5" cy="77.5" r="7.5"></circle>
+                    <circle id="椭圆形" cx="98.0647438" cy="72.1908115" r="7.5"></circle>
+                    <circle id="椭圆形" cx="63.5" cy="87.5" r="7.5"></circle>
+                    <circle id="椭圆形" cx="78.993143" cy="32.6905071" r="7.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
