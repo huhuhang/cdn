@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="835px" height="766px" viewBox="0 0 835 766" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-9" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-7">
+            <g id="Group" transform="translate(305.000000, 0.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#ABCAEF" x="0.5" y="0.5" width="187" height="61"></rect>
+                <text id="Neocognitron" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#4A4A4A">
+                    <tspan x="36.436" y="36">Neocognitron</tspan>
+                </text>
+            </g>
+            <g id="Group-2" transform="translate(305.000000, 93.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#ABCAEF" x="0.5" y="0.5" width="187" height="61"></rect>
+                <text id="LeNet" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#4A4A4A">
+                    <tspan x="68.228" y="36">LeNet</tspan>
+                </text>
+            </g>
+            <g id="Group-2" transform="translate(305.000000, 199.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#DD82F0" x="0.5" y="0.5" width="187" height="61"></rect>
+                <text id="AlexNet" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#FFFFFF">
+                    <tspan x="60.461" y="36">AlexNet</tspan>
+                </text>
+            </g>
+            <g id="Group-2" transform="translate(305.000000, 611.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#CAEB5D" x="0.5" y="0.5" width="187" height="61"></rect>
+                <text id="ResNet" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#4A4A4A">
+                    <tspan x="62.639" y="36">ResNet</tspan>
+                </text>
+            </g>
+            <g id="Group-2" transform="translate(305.000000, 704.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#CAEB5D" x="0.5" y="0.5" width="187" height="61"></rect>
+                <text id="Inception-+-ResNet" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#4A4A4A">
+                    <tspan x="13.032" y="36">Inception + ResNet </tspan>
+                </text>
+            </g>
+            <g id="Group-3" transform="translate(0.000000, 316.571429)">
+                <rect id="Rectangle" stroke="#979797" fill="#B8E986" x="0.5" y="0.5" width="187" height="61"></rect>
+                <text id="VGG-16" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#4A4A4A">
+                    <tspan x="61.973" y="36">VGG 16</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#979797" fill="#F5A623" x="203.5" y="0.5" width="187" height="61"></rect>
+                <text id="NIN" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#4A4A4A">
+                    <tspan x="281.11" y="36">NIN</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#979797" fill="#50E3C2" x="406.5" y="0.5" width="187" height="61"></rect>
+                <text id="R-CNN" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#4A4A4A">
+                    <tspan x="468.126" y="36">R-CNN</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#979797" fill="#F8E71C" x="609.5" y="0.5" width="187" height="61"></rect>
+                <text id="Inception-V2" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#4A4A4A">
+                    <tspan x="649.049" y="36">Inception V2</tspan>
+                </text>
+            </g>
+            <g id="Group-4" transform="translate(0.000000, 409.428571)">
+                <rect id="Rectangle" stroke="#979797" fill="#B8E986" x="0.5" y="0.5" width="187" height="61"></rect>
+                <text id="VGG-19" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#4A4A4A">
+                    <tspan x="61.973" y="36">VGG 19</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#979797" fill="#F5A623" x="203.5" y="0.5" width="187" height="61"></rect>
+                <text id="GoogleNet" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#4A4A4A">
+                    <tspan x="251.374" y="36">GoogleNet</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#979797" fill="#50E3C2" x="406.5" y="0.5" width="187" height="61"></rect>
+                <text id="Fast-R-CNN" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#4A4A4A">
+                    <tspan x="446.859" y="36">Fast R-CNN</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#979797" fill="#F8E71C" x="609.5" y="0.5" width="187" height="61"></rect>
+                <text id="FCN" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#4A4A4A">
+                    <tspan x="684.131" y="36">FCN</tspan>
+                </text>
+            </g>
+            <g id="Group-5" transform="translate(0.000000, 502.285714)">
+                <rect id="Rectangle" stroke="#979797" fill="#B8E986" x="0.5" y="0.5" width="187" height="61"></rect>
+                <text id="MSRANet" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#4A4A4A">
+                    <tspan x="52.424" y="36">MSRANet</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#979797" fill="#F5A623" x="203.5" y="0.5" width="187" height="61"></rect>
+                <text id="Inception-V3/4" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#4A4A4A">
+                    <tspan x="233.149" y="36">Inception V3/4</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#979797" fill="#50E3C2" x="406.5" y="0.5" width="187" height="61"></rect>
+                <text id="Faster-R-CNN" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#4A4A4A">
+                    <tspan x="438.435" y="36">Faster R-CNN</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#979797" fill="#F8E71C" x="609.5" y="0.5" width="187" height="61"></rect>
+                <text id="STNet" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#4A4A4A">
+                    <tspan x="676.256" y="36">STNet</tspan>
+                </text>
+            </g>
+            <g id="Group-6" transform="translate(58.000000, 164.000000)">
+                <path d="M770.5,229.5 L770.5,323.5" id="Line" stroke="#4A90E2" stroke-width="5"></path>
+                <path id="Line-decoration-1" d="M770.5,323.5 L773.5,312.7 L767.5,312.7 L770.5,323.5 Z" stroke="#4A90E2" stroke-width="5"></path>
+                <text id="历史性突破" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#4A4A4A">
+                    <tspan x="295" y="19">历史性突破</tspan>
+                </text>
+                <text id="网络加深-+-收敛提速" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#4A4A4A">
+                    <tspan x="257.061" y="431">网络加深 + 收敛提速</tspan>
+                </text>
+                <text id="网络加深" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#4A4A4A">
+                    <tspan x="0" y="135">网络加深</tspan>
+                </text>
+                <text id="增强卷积性能" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#4A4A4A">
+                    <tspan x="185" y="135">增强卷积性能</tspan>
+                </text>
+                <text id="增加功能单元" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#4A4A4A">
+                    <tspan x="591" y="135">增加功能单元</tspan>
+                </text>
+                <text id="分类-→-检测" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" fill="#4A4A4A">
+                    <tspan x="391.006" y="135">分类 → 检测</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

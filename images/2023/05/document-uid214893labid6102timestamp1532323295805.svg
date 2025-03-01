@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="658px" height="108px" viewBox="0 0 658 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-6" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5" transform="translate(1.000000, -4.000000)">
+            <g id="Group" transform="translate(0.000000, 75.000000)" stroke="#F5A623" stroke-linecap="square">
+                <path d="M2.5,11.5 L247,11.5" id="Line" stroke-width="4"></path>
+                <path d="M1.5,11.5 L1.5,0.5" id="Line-3" stroke-width="3"></path>
+                <path d="M247.5,11.5 L247.5,0.5" id="Line-3" stroke-width="3"></path>
+            </g>
+            <g id="Group" transform="translate(204.000000, 98.000000)" stroke="#F5A623" stroke-linecap="square">
+                <path d="M2.5,11.5 L247,11.5" id="Line" stroke-width="4"></path>
+                <path d="M1.5,11.5 L1.5,0.5" id="Line-3" stroke-width="3"></path>
+                <path d="M247.5,11.5 L247.5,0.5" id="Line-3" stroke-width="3"></path>
+            </g>
+            <g id="Group" transform="translate(407.000000, 75.000000)" stroke="#F5A623" stroke-linecap="square">
+                <path d="M2.5,11.5 L247,11.5" id="Line" stroke-width="4"></path>
+                <path d="M1.5,11.5 L1.5,0.5" id="Line-3" stroke-width="3"></path>
+                <path d="M247.5,11.5 L247.5,0.5" id="Line-3" stroke-width="3"></path>
+            </g>
+            <text id="Kernel-=-6；Stride-=" font-family="PingFangSC-Medium, PingFang SC" font-size="11" font-weight="400" fill="#F5A623">
+                <tspan x="1.266" y="110">Kernel = 6；Stride = 5</tspan>
+            </text>
+            <text id="SAME" font-family="PingFangSC-Medium, PingFang SC" font-size="11" font-weight="400" fill="#666666">
+                <tspan x="0.27" y="12">SAME</tspan>
+            </text>
+            <g id="Group-4" transform="translate(0.000000, 25.000000)">
+                <g id="Group-3">
+                    <rect id="Rectangle" stroke="#4A4A4A" fill="#B8E986" x="41" y="0" width="41" height="41"></rect>
+                    <rect id="Rectangle" stroke="#4A4A4A" fill="#B8E986" x="82" y="0" width="41" height="41"></rect>
+                    <rect id="Rectangle" stroke="#4A4A4A" fill="#B8E986" x="123" y="0" width="41" height="41"></rect>
+                    <rect id="Rectangle" stroke="#4A4A4A" fill="#B8E986" x="164" y="0" width="41" height="41"></rect>
+                    <rect id="Rectangle" stroke="#4A4A4A" fill="#B8E986" x="205" y="0" width="41" height="41"></rect>
+                    <rect id="Rectangle" stroke="#4A4A4A" fill="#B8E986" x="246" y="0" width="41" height="41"></rect>
+                    <rect id="Rectangle" stroke="#4A4A4A" fill="#B8E986" x="287" y="0" width="41" height="41"></rect>
+                    <rect id="Rectangle" stroke="#4A4A4A" fill="#B8E986" x="328" y="0" width="41" height="41"></rect>
+                    <rect id="Rectangle" stroke="#4A4A4A" fill="#B8E986" x="369" y="0" width="41" height="41"></rect>
+                    <rect id="Rectangle" stroke="#4A4A4A" fill="#B8E986" x="410" y="0" width="41" height="41"></rect>
+                    <rect id="Rectangle" stroke="#4A4A4A" fill="#B8E986" x="492" y="0" width="41" height="41"></rect>
+                    <rect id="Rectangle" stroke="#4A4A4A" fill="#B8E986" x="533" y="0" width="41" height="41"></rect>
+                    <rect id="Rectangle" stroke="#4A4A4A" fill="#B8E986" x="451" y="0" width="41" height="41"></rect>
+                    <g id="Group-7" transform="translate(574.000000, 0.000000)">
+                        <rect id="Rectangle" stroke="#4A4A4A" fill="#4A90E2" x="0" y="0" width="41" height="41"></rect>
+                        <text id="0" font-family="PingFangSC-Medium, PingFang SC" font-size="11" font-weight="400" fill="#FFFFFF">
+                            <tspan x="17.7" y="24">0</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-6" transform="translate(615.000000, 0.000000)">
+                        <rect id="Rectangle" stroke="#4A4A4A" fill="#4A90E2" x="0" y="0" width="41" height="41"></rect>
+                        <text id="0" font-family="PingFangSC-Medium, PingFang SC" font-size="11" font-weight="400" fill="#FFFFFF">
+                            <tspan x="17.7" y="24">0</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-6">
+                        <rect id="Rectangle" stroke="#4A4A4A" fill="#4A90E2" x="0" y="0" width="41" height="41"></rect>
+                        <text id="0" font-family="PingFangSC-Medium, PingFang SC" font-size="11" font-weight="400" fill="#FFFFFF">
+                            <tspan x="17.7" y="24">0</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
